@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <!DOCTYPE html>
 <html>
 <head>
-	<title>test</title>
+	<title>Directory access is forbidden</title>
 </head>
 <body>
 
