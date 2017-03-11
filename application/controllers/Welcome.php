@@ -23,4 +23,5 @@ class Welcome extends CI_Controller {
 		$data['title']="komkeao";
 		$this->load->view('home',$data);
 	}
+	
 }
